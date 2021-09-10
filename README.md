@@ -6,7 +6,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/mthenrique)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( https://www.linkedin.com/in/mthenrique/)
+[![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mthenrique/)](https://www.linkedin.com/in/mthenrique/)
+
 
 <!--
 **mthenrique/mthenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
